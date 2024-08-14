@@ -48,8 +48,10 @@ Feel free to fork the repository, make improvements, and submit pull requests. C
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+netfly deploy link : tictactoegamekrohit2552.netlify.app
 Contact
 If you have any questions or suggestions, feel free to contact me:
+
 
 Email: kumarrohit2551997@gmail.com
 GitHub: krohit2552
